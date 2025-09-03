@@ -21,3 +21,6 @@ Problem 2
 3. Uncomment the import in `test_problem1.py`, uncomment the test bodies, and delete the `pass` keyword.
 4. Run the tests and if they pass, commit and push the code to GitHub.
 5. Verify that the tests pass under the Actions tab in GitHub.
+
+
+Author: Erik Beitel
